@@ -7,7 +7,7 @@ This is the project repo for the final project of the Udacity Self-Driving Car N
 | Name           | Udacity account       | Slack Handle | Time Zone         |
 |:---------------|:----------------------|--------------|-------------------| 
 | italo jose     | italo.i@live.com      | @italojs     | UTC-3 (Brazil)    |
-| your_name      | your@email.com        | @NickName    | UTC-3             |  
+| Gao Hang       | gaohanfr@hotmail.com  | @sq03064140  | UTC+8 (Chinae)    |  
 | your_name      | your@email.com        | @NickName    | UTC-3             |
 | your_name      | your@email.com        | @NickName    | UTC-3             |
 | your_name      | your@email.com        | @NickName    | UTC-3             |
